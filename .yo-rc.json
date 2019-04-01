@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.proyectomicroservicio.test",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "microservice",
+    "baseName": "microservicio",
+    "packageName": "com.proyectomicroservicio.test",
+    "packageFolder": "com/proyectomicroservicio/test",
+    "serverPort": "8085",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDZmNTY4NDg4ZDM2NmMxMWYzNTA0ZGNlNTk3ZGVjNDQyZWI3ZWNlYjg1NmZlMGQyMjM0ZTIzN2ZmYTMyNTA2M2IxM2VlMzlhN2YyNWM4YWYzMTNkNGQ5ZTM0YzE5MWViOWJmZDZiNDc0ZTNjMDUzN2U1MTc2M2Q4NmUwOTY3NTI=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "es",
+    "languages": [
+      "es"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
